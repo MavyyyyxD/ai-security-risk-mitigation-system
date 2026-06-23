@@ -1,2 +1,3 @@
 API_KEY = "1234567890abcdef"
+SECRET_TOKEN = "abcdef123456789"
 print(API_KEY)
