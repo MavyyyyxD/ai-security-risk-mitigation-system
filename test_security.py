@@ -1,0 +1,2 @@
+API_KEY = "1234567890abcdef"
+print(API_KEY)
